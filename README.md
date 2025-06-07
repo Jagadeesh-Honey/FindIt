@@ -1,6 +1,6 @@
-🔍 FindIt — Passive Subdomain Hunter
+🔍 FindingIt — Passive Subdomain Hunter
 
-FindIt is a passive subdomain enumeration tool for ethical hackers, bug bounty hunters, and penetration testers.  
+FindingIt is a passive subdomain enumeration tool for ethical hackers, bug bounty hunters, and penetration testers.  
 Designed to avoid brute-force and noisy scans, this tool focuses on reliable methods to gather valid subdomains using passive techniques — with love, JAGADEESH ❤️.
 
 
@@ -19,8 +19,8 @@ Designed to avoid brute-force and noisy scans, this tool focuses on reliable met
 
     1. Clone the Repository
 	bash
-	git clone https://github.com/yourusername/FindIt.git
-	cd FindIt
+	git clone https://github.com/yourusername/FindingIt.git
+	cd FindingIt
 
 
     2. Install Dependencies
@@ -39,7 +39,7 @@ Designed to avoid brute-force and noisy scans, this tool focuses on reliable met
    🛠️ Usage
 
 		bash
-		python FindIt.py -d example.com [options]
+		python FindingIt.py -d example.com [options]
 ```
 
     🔧 Options
